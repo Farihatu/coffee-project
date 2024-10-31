@@ -2,71 +2,72 @@
   {
     "id": 1,
     "title": "Caffè Latte",
-    "detail": "Rich and full-bodied espresso with steamed milk, topped with a bit of foam. Caffè latte is espresso with fresh, sweet steamed milk.",
-    "thumbnail": "./assets/caffe_latte_thumbnail.png",
-    "poster": "./assets/caffe_latte_poster.jpg"
+    "detail": "A rich and creamy espresso with steamed milk and a light foam on top. Caffè latte is espresso with sweet steamed milk.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/caffe_latte_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/caffe_latte_poster.jpg"
   },
   {
     "id": 2,
     "title": "Cappuccino",
     "detail": "Espresso with steamed milk, topped with a thick layer of foam.",
-    "thumbnail": "./assets/cappuccino_thumbnail.png",
-    "poster": "./assets/cappuccino_poster.jpg"
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/cappuccino_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/cappuccino_poster.jpg"
   },
   {
     "id": 3,
     "title": "Caffè Mocha",
-    "detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweet whipped cream. Simply delicious.",
-    "thumbnail": "./assets/caffe_mocha_thumbnail.png",
-    "poster": "./assets/caffe_mocha_poster.jpg"
+    "detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweet whipped cream. Delicious.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/caffe_mocha_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/caffe_mocha_poster.jpg"
   },
   {
     "id": 4,
     "title": "Caramel Macchiato",
-    "detail": "Espresso with vanilla syrup, milk, and caramel sauce on top. A classic choice in summer, with a delicious caramel drizzle.",
-    "thumbnail": "./assets/caramel_macchiato_thumbnail.png",
-    "poster": "./assets/caramel_macchiato_poster.jpg"
+    "detail": "Espresso with vanilla syrup, milk, and caramel sauce on top. A classic choice for summer. Topped with delicious caramel drizzle.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/caramel_macchiato_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/caramel_macchiato_poster.jpg"
   },
   {
     "id": 5,
     "title": "Vanilla Sweet Cream Cold Brew",
-    "detail": "Cold brew served with a float of homemade sweet and smooth vanilla cream.",
-    "thumbnail": "./assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
-    "poster": "./assets/vanilla_sweet_cream_cold_brew_poster.jpg"
+    "detail": "Cold brew served with a float of homemade sweet and soft vanilla cream.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/vanilla_sweet_cream_cold_brew_poster.jpg"
   },
   {
     "id": 6,
     "title": "Cold Brew",
-    "detail": "Slow-brewed cold brew with a rich, naturally sweet taste.",
-    "thumbnail": "./assets/cold_brew_thumbnail.png",
-    "poster": "./assets/cold_brew_poster.jpg"
+    "detail": "Slow-brewed cold brew with a rich, naturally sweet flavor.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/cold_brew_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/cold_brew_poster.jpg"
   },
   {
     "id": 7,
     "title": "Mango Passion Frappuccino",
-    "detail": "Tropical mango and passionfruit infusion, perfect with hibiscus tea and ice.",
-    "thumbnail": "./assets/mango_passion_frappuccino_thumbnail.png",
-    "poster": "./assets/mango_passion_frappuccino_poster.jpg"
+    "detail": "A blend of tropical mango and passionfruit, perfectly paired with hibiscus tea and ice.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/mango_passion_frappuccino_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/mango_passion_frappuccino_poster.jpg"
   },
   {
     "id": 8,
     "title": "Raspberry Currant Frappuccino",
     "detail": "Made with fresh Teavana tea, juice, and ice.",
-    "thumbnail": "./assets/raspberry_currant_frappuccino_thumbnail.png",
-    "poster": "./assets/raspberry_currant_frappuccino_poster.jpg"
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/raspberry_currant_frappuccino_poster.jpg"
   },
   {
     "id": 9,
     "title": "Coffee Frappuccino",
-    "detail": "Starbucks coffee blended with nonfat milk and ice for a lighter taste.",
-    "thumbnail": "./assets/coffee_frappuccino_thumbnail.png",
-    "poster": "./assets/coffee_frappuccino_poster.jpg"
+    "detail": "Starbucks coffee blended with nonfat milk and ice for a lighter flavor.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/coffee_frappuccino_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/coffee_frappuccino_poster.jpg"
   },
   {
     "id": 10,
     "title": "Mocha Frappuccino",
-    "detail": "Mocha sauce, coffee Frappuccino, milk, and ice combined for a mocha flavor that makes you crave more.",
-    "thumbnail": "./assets/mocha_frappuccino_thumbnail.png",
-    "poster": "./assets/mocha_frappuccino_poster.jpg"
+    "detail": "Mocha sauce, Frappuccino coffee, milk, and ice blend together for a mocha flavor that will keep you coming back.",
+    "thumbnail": "https://coffee-project-black.vercel.app/assets/mocha_frappuccino_thumbnail.png",
+    "poster": "https://coffee-project-black.vercel.app/assets/mocha_frappuccino_poster.jpg"
   }
 ]
+
