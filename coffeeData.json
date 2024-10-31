@@ -1,73 +1,72 @@
 [
-    {
-      "id": 1,
-      "title": "Caffè Latte",
-      "detail": "Espresso yang kaya dan berisi dengan susu kukus, ditambah sedikit busa di atasnya. Caffè latte adalah espresso dengan susu kukus segar yang manis.",
-      "thumbnail": "/assets/caffe_latte_thumbnail.png",
-      "poster": "/assets/caffe_latte_poster.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Cappuccino",
-      "detail": "Espresso dengan susu kukus, ditambah lapisan busa tebal di atasnya.",
-      "thumbnail": "/assets/cappuccino_thumbnail.png",
-      "poster": "/assets/cappuccino_poster.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Caffè Mocha",
-      "detail": "Espresso dengan saus moka pahit-manis dan susu kukus, ditambah krim kocok manis. Sangat lezat.",
-      "thumbnail": "../assets/caffe_mocha_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/caffe_mocha_poster.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Caramel Macchiato",
-      "detail": "Espresso dengan sirup vanilla, susu, dan saus karamel di atasnya. Pilihan klasik di musim panas. Ditambahkan saus karamel khas yang lezat.",
-      "thumbnail": "https://your-vercel-url.com/assets/caramel_macchiato_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/caramel_macchiato_poster.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Vanilla Sweet Cream Cold Brew",
-      "detail": "Cold brew yang disajikan dengan float krim vanilla buatan rumah yang manis dan lembut.",
-      "thumbnail": "https://your-vercel-url.com/assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/vanilla_sweet_cream_cold_brew_poster.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Cold Brew",
-      "detail": "Cold brew yang diseduh perlahan dan memiliki rasa manis alami yang kaya.",
-      "thumbnail": "https://your-vercel-url.com/assets/cold_brew_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/cold_brew_poster.jpg"
-    },
-    {
-      "id": 7,
-      "title": "Mango Passion Frappuccino",
-      "detail": "Infus mangga tropis dan passionfruit, sempurna dengan teh hibiscus dan es.",
-      "thumbnail": "https://your-vercel-url.com/assets/mango_passion_frappuccino_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/mango_passion_frappuccino_poster.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Raspberry Currant Frappuccino",
-      "detail": "Dibuat dengan teh Teavana segar, jus dan es.",
-      "thumbnail": "https://your-vercel-url.com/assets/raspberry_currant_frappuccino_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/raspberry_currant_frappuccino_poster.jpg"
-    },
-    {
-      "id": 9,
-      "title": "Coffee Frappuccino",
-      "detail": "Kopi Starbucks yang dicampur dengan susu tanpa lemak dan es untuk rasa yang lebih ringan.",
-      "thumbnail": "https://your-vercel-url.com/assets/coffee_frappuccino_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/coffee_frappuccino_poster.jpg"
-    },
-    {
-      "id": 10,
-      "title": "Mocha Frappuccino",
-      "detail": "Saus moka, kopi Frappuccino, susu, dan es menyatu untuk rasa moka yang membuat ingin lagi.",
-      "thumbnail": "https://your-vercel-url.com/assets/mocha_frappuccino_thumbnail.png",
-      "poster": "https://your-vercel-url.com/assets/mocha_frappuccino_poster.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Caffè Latte",
+    "detail": "Espresso yang kaya dan berisi dengan susu kukus, ditambah sedikit busa di atasnya. Caffè latte adalah espresso dengan susu kukus segar yang manis.",
+    "thumbnail": "./assets/caffe_latte_thumbnail.png",
+    "poster": "./assets/caffe_latte_poster.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cappuccino",
+    "detail": "Espresso dengan susu kukus, ditambah lapisan busa tebal di atasnya.",
+    "thumbnail": "./assets/cappuccino_thumbnail.png",
+    "poster": "./assets/cappuccino_poster.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Caffè Mocha",
+    "detail": "Espresso dengan saus moka pahit-manis dan susu kukus, ditambah krim kocok manis. Sangat lezat.",
+    "thumbnail": "./assets/caffe_mocha_thumbnail.png",
+    "poster": "./assets/caffe_mocha_poster.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Caramel Macchiato",
+    "detail": "Espresso dengan sirup vanilla, susu, dan saus karamel di atasnya. Pilihan klasik di musim panas. Ditambahkan saus karamel khas yang lezat.",
+    "thumbnail": "./assets/caramel_macchiato_thumbnail.png",
+    "poster": "./assets/caramel_macchiato_poster.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Vanilla Sweet Cream Cold Brew",
+    "detail": "Cold brew yang disajikan dengan float krim vanilla buatan rumah yang manis dan lembut.",
+    "thumbnail": "./assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "./assets/vanilla_sweet_cream_cold_brew_poster.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cold Brew",
+    "detail": "Cold brew yang diseduh perlahan dan memiliki rasa manis alami yang kaya.",
+    "thumbnail": "./assets/cold_brew_thumbnail.png",
+    "poster": "./assets/cold_brew_poster.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mango Passion Frappuccino",
+    "detail": "Infus mangga tropis dan passionfruit, sempurna dengan teh hibiscus dan es.",
+    "thumbnail": "./assets/mango_passion_frappuccino_thumbnail.png",
+    "poster": "./assets/mango_passion_frappuccino_poster.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Raspberry Currant Frappuccino",
+    "detail": "Dibuat dengan teh Teavana segar, jus dan es.",
+    "thumbnail": "./assets/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "./assets/raspberry_currant_frappuccino_poster.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Coffee Frappuccino",
+    "detail": "Kopi Starbucks yang dicampur dengan susu tanpa lemak dan es untuk rasa yang lebih ringan.",
+    "thumbnail": "./assets/coffee_frappuccino_thumbnail.png",
+    "poster": "./assets/coffee_frappuccino_poster.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mocha Frappuccino",
+    "detail": "Saus moka, kopi Frappuccino, susu, dan es menyatu untuk rasa moka yang membuat ingin lagi.",
+    "thumbnail": "./assets/mocha_frappuccino_thumbnail.png",
+    "poster": "./assets/mocha_frappuccino_poster.jpg"
+  }
+]
